@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Texto a Voz</string>
+    <string name="msg_ok_text_to_speech">¡Texto a Voz listo para usarse!</string>
+    <string name="msg_fail_text_to_speech">¡No puede usarse Texto a Voz en este dispositivo!</string>
+    <string name="msg_tv_title">Ingrese el texto a leer:</string>
+    <string name="msg_btn_speak">Leer!</string>
+    <string name="msg_not_message">Por favor, ingrese un mensaje.</string>
+    <string name="msg_edt_message">Ingrese aquí el mensaje que quieras leer.</string>
+</resources>

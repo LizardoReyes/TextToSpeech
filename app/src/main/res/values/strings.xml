@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text To Speech</string>
+    <string name="msg_ok_text_to_speech">Text to speech is ready to go!</string>
+    <string name="msg_fail_text_to_speech">Text to speech is not ready :(</string>
+    <string name="msg_tv_title">Please enter text to speak:</string>
+    <string name="msg_btn_speak">Speak!</string>
+    <string name="msg_not_message">"Please enter a message"</string>
+    <string name="msg_edt_message">Enter here the message you want to read.</string>
+</resources>
