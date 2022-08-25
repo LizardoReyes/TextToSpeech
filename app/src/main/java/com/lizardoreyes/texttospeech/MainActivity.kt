@@ -33,9 +33,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     override fun onInit(status: Int) {
-        if (status == TextToSpeech.SUCCESS) {
+        if (status != TextToSpeech.SUCCESS) {
             binding.tvMessage.text = getString(R.string.msg_ok_text_to_speech)
-            tts.language = Locale("ES")
+            //tts.language = Locale("ES")
         } else {
             binding.tvMessage.text = getString(R.string.msg_fail_text_to_speech)
             binding.edtMessage.isEnabled = false
